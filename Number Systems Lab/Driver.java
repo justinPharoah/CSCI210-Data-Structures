@@ -2,9 +2,9 @@
  * Project Title: CSCI 210 - Number Systems Lab
  * Project Description: Converts values between Binary, Decimal, and Hexadecimal values.
  * Version/Date: Version 2.0 - July 5, 2017
- * How to Start the Project: Using a Java IDE, run the code. (Wasn't exactly sure what goes here).
+ * How to Start the Project: Using a Java IDE, run the code.
  * Author: Justin Ferrell
- * Palomar ID: 011564420
+ * Palomar ID: *********
  * User Instructions: Once the program is running, follow the steps specified by the menu
  * that will pop up.
  * DO NOT put spaces in between binary nibbles or anything for that matter.
