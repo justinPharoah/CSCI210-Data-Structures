@@ -4,7 +4,7 @@
  * Version/Date: Version 3.0 - July 15, 2017 (modified 3 times)
  * How to Start Project: Using a Java IDE, run the code after providing an input text file.
  * Author: Justin Ferrell
- * Palomar ID: 011564420
+ * Palomar ID: *********
  * User Instructions: Must provide a file to be read in. Expressions can have spaces between
  * each character. Each expression must start on its own line.
  */
