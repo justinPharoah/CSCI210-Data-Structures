@@ -1,3 +1,4 @@
+//Output file for the Infix to Postfix Lab
 Expression 1 to be converted is: 8 + 4 * 2 - 6
 Postfix notation for expression 1 is: 8 4 2 * + 6 -
 Its corresponding evaluation is: 10
