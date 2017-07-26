@@ -1,3 +1,5 @@
+//Input file for Infix to Postfix Lab
+
 8 + 4 * 2 - 6
 7 * 2 - 4 * 3 + 2 * 5
 2 * 3 * 4 - 8 + 9 / 3 / 3
