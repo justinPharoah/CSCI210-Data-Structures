@@ -1,0 +1,40 @@
+Expression 1 to be converted is: 8 + 4 * 2 - 6
+Postfix notation for expression 1 is: 8 4 2 * + 6 -
+Its corresponding evaluation is: 10
+
+Expression 2 to be converted is: 7 * 2 - 4 * 3 + 2 * 5
+Postfix notation for expression 2 is: 7 2 * 4 3 * - 2 5 * +
+Its corresponding evaluation is: 12
+
+Expression 3 to be converted is: 2 * 3 * 4 - 8 + 9 / 3 / 3
+Postfix notation for expression 3 is: 2 3 * 4 * 8 - 9 3 / 3 / +
+Its corresponding evaluation is: 17
+
+Expression 4 to be converted is: 5 + 7 * 4 - 6
+Postfix notation for expression 4 is: 5 7 4 * + 6 -
+Its corresponding evaluation is: 27
+
+Expression 5 to be converted is: 4 * ( 3 + 2 * 4 ) - 7
+Postfix notation for expression 5 is: 4 3 2 4 * + * 7 -
+Its corresponding evaluation is: 37
+
+Expression 6 to be converted is: ( 5 + 7 ) / ( 9 - 5 )
+Postfix notation for expression 6 is: 5 7 + 9 5 - /
+Its corresponding evaluation is: 3
+
+Expression 7 to be converted is: 3 * ( 5 * ( 5 - 2 ) ) - 9
+Postfix notation for expression 7 is: 3 5 5 2 - * * 9 -
+Its corresponding evaluation is: 36
+
+Expression 8 to be converted is: ( ( 5 * ( 4 + 2 ) - ( 8 + 8 ) / 2 ) - 9 ) ^ 3
+Postfix notation for expression 8 is: 5 4 2 + * 8 8 + 2 / - 9 - 3 ^
+Its corresponding evaluation is: 2197
+
+Expression 9 to be converted is: ( ( 5 + 5 * ( 6 - 2 ) + 4 ^ 2 ) * 8 )
+Postfix notation for expression 9 is: 5 5 6 2 - * + 4 2 ^ + 8 *
+Its corresponding evaluation is: 328
+
+Expression 10 to be converted is: ( ( ( 3 ^ 4 ) ) )
+Postfix notation for expression 10 is: 3 4 ^
+Its corresponding evaluation is: 81
+
