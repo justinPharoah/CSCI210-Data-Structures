@@ -1,0 +1,42 @@
+Event          System Time           PID           CPU Time Needed           Total Time Needed          Lowest Level Queue
+Arrival                  2           101                         3                           -                           -
+Departure                5           101                         -                           3                           2
+Arrival                  7           102                         1                           -                           -
+Departure                8           102                         -                           1                           1
+Arrival                  9           103                         7                           -                           -
+Arrival                 12           104                         5                           -                           -
+Arrival                 12           104                         5                           -                           -
+Departure               16           105                         -                           2                           1
+Arrival                 17           106                         1                           -                           -
+Arrival                 17           106                         1                           -                           -
+Departure               19           106                         -                           2                           1
+Arrival                 24           108                         2                           -                           -
+Departure               26           103                         -                          17                           3
+Departure               28           108                         -                           4                           1
+Departure               29           104                         -                          17                           3
+Arrival                 34           109                        12                           -                           -
+Arrival                 34           109                        12                           -                           -
+Arrival                 37           110                         3                           -                           -
+Arrival                 37           110                         3                           -                           -
+Arrival                 50           113                         1                           -                           -
+Departure               52           113                         -                           2                           1
+Departure               53           110                         -                          16                           2
+Arrival                 56           114                         1                           -                           -
+Departure               58           114                         -                           2                           1
+Arrival                 71           115                         3                           -                           -
+Arrival                 71           115                         3                           -                           -
+Departure              104           107                         -                          86                           4
+Departure              108           116                         -                          27                           1
+Departure              109           115                         -                          38                           2
+Departure              113           109                         -                          79                           4
+Departure              115           111                         -                          71                           4
+Departure              155           112                         -                         110                           4
+
+
+Total Number of Jobs                       16
+Total Time of All Jobs in System 48 
+Average Response Time                     0.0
+Average Turnaround Time for the Jobs 3.00 
+Average Waiting Time 0.00 
+Average Throughput for System as a Whole 0.00 
+Total CPU Idle Time 6 

@@ -1,0 +1,7 @@
+Justin,
+
+Your queue lab is not showing the correct output for the simulation and is not showing the correct summary information. 
+
+Grade: 7/10 - 1 late = 6/10
+
+Richard Stegman
