@@ -1,0 +1,7 @@
+Justin,
+
+Your tree lab is very well done. However, your getHash() method is not showing the required signature. While your hash code might produce 0 collisions, I cannot give you extra credit for it as its operates in O(n) time rather than O(1) time. Otherwise well done.
+
+Grade: 9.5/10
+
+Richard Stegman
