@@ -1,0 +1,88 @@
+Part A: Reading in payfile.txt
+Part A Complete: See Part B for confirmation. 
+
+Part B: Employees on Payroll
+First Name           Last Name           Gender           Tenure           Rate          Salary
+Jean                 Brennan             F                6                H             5.40
+Shari                Buchman             F                9                H             325.00
+Albert               Cahana              M                3                W             18.75
+Joan                 Jacobus             F                9                H             925.00
+Sara                 Jones               F                1                H             7.50
+Jamie                Michaels            F                8                H             150.00
+Ricky                Mofsen              M                6                W             12.50
+David                Renn                M                3                W             4.75
+Douglas              Sheer               M                5                W             250.00
+Deborah              Starr               F                3                H             1000.00
+Howard               Starr               M                8                W             30.00
+
+Part C: Number of Employees
+Number Employed: 11 employees
+
+Part D: Women on Payroll
+First Name          Last Name
+Jean                Brennan
+Shari               Buchman
+Joan                Jacobus
+Sara                Jones
+Jamie               Michaels
+Deborah             Starr
+
+Part E: Weekly Employees w/ $35k+ Salary, 5 Year Tenure
+First Name           Last Name          Salary
+Joan                 Jacobus            925.00
+
+Part F: Employee Raises
+First Name           Last Name          Salary
+Jean                 Brennan            6.15
+Shari                Buchman            375.00
+Sara                 Jones              8.25
+Jamie                Michaels           200.00
+David                Renn               5.50
+Douglas              Sheer              300.00
+
+Part G: Sort Employees by Last Name
+First Name           Last Name          Salary
+Jean                 Brennan            6.15
+Shari                Buchman            375.00
+Albert               Cahana             18.75
+Joan                 Jacobus            925.00
+Sara                 Jones              8.25
+Jamie                Michaels           200.00
+Ricky                Mofsen             12.50
+David                Renn               5.50
+Douglas              Sheer              300.00
+Deborah              Starr              1000.00
+Howard               Starr              30.00
+
+Part H: Hiring Employees from hirefile.txt
+First Name          Last Name
+Barry               Allen
+Jean                Brennan
+Shari               Buchman
+Albert              Cahana
+Joan                Jacobus
+Sara                Jones
+Jamie               Michaels
+Ricky               Mofsen
+Nina                Pinella
+David               Renn
+Douglas             Sheer
+Deborah             Starr
+Howard              Starr
+Lane                Wagger
+
+Part I: Firing Employees from firefile.txt
+First Name          Last Name
+Barry               Allen
+Shari               Buchman
+Albert              Cahana
+Joan                Jacobus
+Sara                Jones
+Jamie               Michaels
+Nina                Pinella
+David               Renn
+Douglas             Sheer
+Deborah             Starr
+Howard              Starr
+Lane                Wagger
+
