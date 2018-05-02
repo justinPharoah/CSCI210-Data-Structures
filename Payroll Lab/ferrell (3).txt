@@ -1,0 +1,7 @@
+Justin,
+
+Your linked list lab is very well done. However, you omitted your Comparable interface. Also, you should have used a better format on dollars and cents.
+
+Grade: 9/10
+
+Richard Stegman
